@@ -1,7 +1,13 @@
-import firebase from 'firebase'
+import firebase from './firebase'
 
 const firebaseConfig = {
-    // your firebase config
+    apiKey: "AIzaSyCf9LD4HKV4BhTihdUHis8kEUhfXB1aJ6w",
+    authDomain: "sport-2382d.firebaseapp.com",
+    projectId: "sport-2382d",
+    storageBucket: "sport-2382d.appspot.com",
+    messagingSenderId: "831588712359",
+    appId: "1:831588712359:web:273a54a390f5498f058082",
+    measurementId: "G-CT2H9DF9RX"
 };
 
 const firebaseApp = firebase.initializeApp(firebaseConfig)
