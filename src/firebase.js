@@ -1,13 +1,13 @@
 import firebase from './firebase'
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCf9LD4HKV4BhTihdUHis8kEUhfXB1aJ6w",
-    authDomain: "sport-2382d.firebaseapp.com",
-    projectId: "sport-2382d",
-    storageBucket: "sport-2382d.appspot.com",
-    messagingSenderId: "831588712359",
-    appId: "1:831588712359:web:273a54a390f5498f058082",
-    measurementId: "G-CT2H9DF9RX"
+    apiKey: "AIzaSyD_v_2IaYHzOx9bCw2emcNP3fHrYGKc4ho",
+    authDomain: "sport-eacf2.firebaseapp.com",
+    projectId: "sport-eacf2",
+    storageBucket: "sport-eacf2.appspot.com",
+    messagingSenderId: "795686044467",
+    appId: "1:795686044467:web:50d4dc59850dc55ad27446",
+    measurementId: "G-BDSB1TCDQQ"
 };
 
 const firebaseApp = firebase.initializeApp(firebaseConfig)
